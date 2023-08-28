@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BabulalxPy
-- 👀 I’m interested in software development.
+- 👀 I’m interested in Full Stack development.
 - 🌱 I’m currently learning Python language.
 - 💞️ I’m looking to guide me on my process of becoming a software developer.
 - 📫 You can reach me through my Linkedin profile: www.linkedin.com/in/babulal-choudhary-82b31a209
