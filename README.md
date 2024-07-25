@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @BabulalxPy
+- 👋 Hi, I’m @Babulal
 - 👀 I’m interested in Full Stack development, Web3 Development.
-- 🌱 I’m currently learning Python language.
+- 🌱 I’m currently learning Python language and doing the course The Odin Porject
 - 💞️ I’m looking to guide me on my process of becoming a software developer.
 - 📫 You can reach me through my Linkedin profile: www.linkedin.com/in/babulal-choudhary-82b31a209
 
